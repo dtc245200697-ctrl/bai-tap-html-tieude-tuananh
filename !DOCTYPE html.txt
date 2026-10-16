@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh sách món ăn và chuẩn bị du lịch</title>
+</head>
+<body>
+
+    <h1>Những món ăn yêu thích của tôi</h1>
+    <ul>
+        <li>Phở bò</li>
+        <li>Bún chả</li>
+        <li>Bánh mì Sài Gòn</li>
+        <li>Cơm tấm</li>
+        <li>Lẩu thái</li>
+    </ul>
+
+    <h2>Các bước chuẩn bị cho một chuyến du lịch</h2>
+    <ol>
+        <li>Lên kế hoạch và chọn điểm đến</li>
+        <li>Đặt vé máy bay/tàu xe và phòng khách sạn</li>
+        <li>Chuẩn bị giấy tờ tùy thân (CCCD, Hộ chiếu, Visa nếu có)</li>
+        <li>Sắp xếp hành lý và trang phục phù hợp</li>
+        <li>Kiểm tra tài chính và chuẩn bị tiền mặt/thẻ ngân hàng</li>
+    </ol>
+
+</body>
+</html>
